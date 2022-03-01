@@ -42,7 +42,7 @@
     "minecraft": ">=1.16.2"
   },
   "recommends": {
-    "modmenu": ">=1.14.0"
+    "modmenu": ">=3.0.1"
   },
   "suggests": {
     "presencefootsteps": "*"
